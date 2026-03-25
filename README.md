@@ -1,9 +1,4 @@
-<h1 align="center">👋 Salut, moi c'est R16008882</h1>
-
-<p align="center">
-  <b>🛡️ Cybersécurité · Reverse Engineering · GRC/SSI · Rust & Wasm</b><br>
-  <i>Marseille, France 🇫🇷</i>
-</p>
+<h1 align="center"> Hello theere </h1>
 
 <p align="center">
   <a href="https://github.com/R16008882">
@@ -14,15 +9,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=R16008882&style=for-the-badge&color=blue&label=Profile+Views" />
 </p>
-
----
-
-## 🧠 À propos de moi
-
-Passionné de **cybersécurité offensive**, de **reverse engineering firmware** et de **développement sécurisé en Rust**.  
-Je conçois des pipelines d'analyse binaire, des outils GRC automatisés, et des systèmes d'inférence IA en local.
-
-> 🎯 Objectif : Combiner **sécurité offensive**, **audit IT/GRC** et **intelligence artificielle** pour construire des systèmes robustes et conformes.
 
 ---
 
