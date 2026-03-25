@@ -12,14 +12,6 @@
 
 ---
 
-## 📫 Me contacter
-
-- 🐙 GitHub : [github.com/R16008882](https://github.com/R16008882)
-- 📧 Email : [rachel.koehler@laplateforme.io](mailto:rachel.koehler@laplateforme.io)
-- 📍 Localisation : Marseille, France
-
----
-
 <p align="center">
   <i><code>// trust no binary you haven't reversed yourself</code></i>
 </p>
