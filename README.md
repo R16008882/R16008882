@@ -1,85 +1,84 @@
-<div align="center">
+<h1 align="center">👋 Salut, moi c'est R16008882</h1>
 
-# R16008882
+<p align="center">
+  <b>🛡️ Cybersécurité · Reverse Engineering · GRC/SSI · Rust & Wasm</b><br>
+  <i>Marseille, France 🇫🇷</i>
+</p>
 
-### Firmware Reverse Engineer · Rust Security Developer
-
-[![GitHub followers](https://img.shields.io/github/followers/R16008882?style=flat-square&color=161b22&labelColor=0d1117&logo=github)](https://github.com/R16008882)
-[![Profile views](https://komarev.com/ghpvc/?username=R16008882&style=flat-square&color=161b22&label=views)](https://github.com/R16008882)
-
-</div>
-
----
-
-```rust
-pub struct Engineer {
-    name:     &'static str,
-    location: &'static str,
-    focus:    [&'static str; 3],
-    stack:    [&'static str; 4],
-}
-
-const ME: Engineer = Engineer {
-    name:     "R16008882",
-    location: "Marseille, France 🇫🇷",
-    focus:    ["Firmware RE", "Rust/Wasm Security Tooling", "AI Inference Pipelines"],
-    stack:    ["Rust", "Python", "C++", "WebAssembly"],
-};
-```
+<p align="center">
+  <a href="https://github.com/R16008882">
+    <img src="https://img.shields.io/github/followers/R16008882?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=R16008882&style=for-the-badge&color=blue&label=Profile+Views" />
+</p>
 
 ---
 
-## Core Expertise
+## 🧠 À propos de moi
 
-**Firmware & Binary Analysis**
-- Static/dynamic analysis of embedded firmware (ARM, MIPS, x86)
-- Binary diffing, vulnerability research, CVE reproduction
-- Digital twin pipeline construction from RE'd firmware
+Passionné de **cybersécurité offensive**, de **reverse engineering firmware** et de **développement sécurisé en Rust**.  
+Je conçois des pipelines d'analyse binaire, des outils GRC automatisés, et des systèmes d'inférence IA en local.
 
-**Rust Security Tooling**
-- Low-level tooling & plugins compiled to Wasm for portability
-- Memory-safe exploit development primitives and fuzz harnesses
-- Async microservices with strict security boundaries (no_std capable)
-
-**AI/ML for Security**
-- Local ONNX inference pipelines for offline threat classification
-- RAG systems over internal knowledge bases (zero data exfiltration)
-- LoRA fine-tuning for domain-specific security NLP models
+> 🎯 Objectif : Combiner **sécurité offensive**, **audit IT/GRC** et **intelligence artificielle** pour construire des systèmes robustes et conformes.
 
 ---
 
-## Toolchain
+## 🔧 Stack Technique
 
+### 🦀 Développement & Tooling
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/Wasm-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-![Binwalk](https://img.shields.io/badge/Binwalk-222222?style=flat-square&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### 🖥️ Système & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-Debian%20%7C%20Ubuntu%20%7C%20Kali-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Nitro%20%7C%20EC2%20%7C%20ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🔬 Reverse Engineering & Sécurité
+![Ghidra](https://img.shields.io/badge/Ghidra-RE%20%7C%20Binary%20Analysis-FF0000?style=flat-square)
+![Binwalk](https://img.shields.io/badge/Binwalk-Firmware%20Extraction-222222?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Pentest-FF6633?style=flat-square)
+![Wazuh](https://img.shields.io/badge/SIEM-Wazuh%20%7C%20Zabbix-3E4D6C?style=flat-square)
+
+### 🤖 IA & Inférence Locale
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-LoRA%20%7C%20RAG-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## What I Build
+## 🚀 Projets en cours
 
-| Project Type | Description |
-|---|---|
-| 🔩 **Firmware RE pipelines** | Extract → analyze → model → patch cycles for IoT/embedded |
-| 🦀 **Rust security crates** | Fuzz harnesses, safe parsers, Wasm plugin runtimes |
-| 🤖 **Offline AI inference** | ONNX + RAG stacks, no cloud dependency |
-| 📋 **GRC automation** | Compliance gap analysis tooling (SSI/ISO 27001) |
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R16008882&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 🔩 **Firmware RE Pipeline** | Extract → analyse → modélisation → patch d'IoT/embarqué | Ghidra · Binwalk · Python · Rust |
+| 🦀 **Rust Security Crates** | Harnesses de fuzzing, parsers sûrs, runtimes Wasm | Rust · no_std · WebAssembly |
+| 🤖 **Offline AI Inference** | Pipeline ONNX + RAG sans dépendance cloud | ONNX · HuggingFace · FastAPI |
+| 📋 **GRC Automation** | Tooling d'analyse de conformité (ISO 27001 / SSI) | Python · Rust · Markdown |
+| 🌐 **Multilingual RAG Server** | Serveur de monitoring multilingue avec base de connaissances locale | Rust · Wasm · ONNX |
 
 ---
 
-<div align="center">
-<sub><code>// trust no binary you haven't reversed yourself</code></sub>
-</div>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R16008882&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R16008882&theme=tokyonight&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R16008882&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+---
+
+## 📫 Me contacter
+
+- 🐙 GitHub : [github.com/R16008882](https://github.com/R16008882)
+- 📍 Localisation : Marseille, France
+
+---
+
+<p align="center">
+  <i><code>// trust no binary you haven't reversed yourself</code></i>
+</p>
